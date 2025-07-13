@@ -50,7 +50,7 @@ This app simplifies the cremation process by enabling users to:
 - Get real-time status updates from the admin
 - Receive reminders & notifications
 
-The app supports *user and admin login, handles **slot availability, and provides a **dashboard for admins* to manage bookings and documents.
+The app supports **user and admin login** , handles **slot availability**, and provides a **dashboard for admins** to manage bookings and documents.
 
 ---
 
